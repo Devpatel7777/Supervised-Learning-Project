@@ -7,7 +7,7 @@ An end-to-end Machine Learning project for predicting residential house prices u
 ## Project Demonstration
 
 **Project Video:**  
-https://youtu.be/YOUR_VIDEO_LINK
+https://drive.google.com/file/d/1FzJ0IsmxKkRDTckrQvj8tH1otz1ajV8-/view?usp=sharing
 
 ---
 
